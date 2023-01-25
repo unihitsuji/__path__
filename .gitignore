@@ -1,0 +1,7 @@
+*.exe
+*.obj
+ctags - README_J.txt
+
+*~
+*#*
+.#*
